@@ -1,0 +1,4 @@
+ DB_HOST=mongodb+srv://MakarenkoYevhenii:7jXOTk2iTEE34Wbz@cluster0.ucirtys.mongodb.net/?retryWrites=true&w=majority
+#  username=MakarenkoYevhenii
+#  password 7jXOTk2iTEE34Wbz
+SECRET_KEY=ldfjsdljflksdjflksdjflkjsdlkffdfhbncxbx
